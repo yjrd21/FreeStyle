@@ -47,14 +47,10 @@ Write unit tests and configure a CI pipeline using GitHub Actions for automated 
 - CI/CD: GitHub Actions 
 - Testing: XCTest 
 
-🧑‍🎨 Design Philosophy
----  
-
-
-👋 About Me
+### About Me
 
 Hi there — I’m Daniel, a computer science graduate, iOS developer, and freestyle dancer.
-This project is a personal blend of technical skill and creative expression. I'm excited to share it with both dancers and developers.
+This project is a personal blend of technical skill and creative expression. 
 
 LinkedIn: www.linkedin.com/in/danielyuen2025 
 Email: dyuensg@gmail.com 
