@@ -10,20 +10,19 @@ Stay tuned!
 
 This passion project is a fusion of two things I deeply care about: code and dance. If you browse the App Store for dance-related apps, you’ll find fitness programs, rhythm games like JustDance, or learning platforms like Steezy. But none are designed to serve freestyle dancers — especially those training for cyphers, jams, or battles. This app is built specifically for them. At its core, the app focuses on two main features:
 
-Beat Counter – Syncs with platforms like Spotify, YouTube Music, or SoundCloud to help dancers stay on beat while drilling movement.
-3D Skeletal Tracking & Playback – Uses computer vision to capture full-body movement as a 3D skeleton in real time, allowing dancers to view simplified skeletal motion for clearer study, playback, and technique replication.
+- Beat Counter – Syncs with platforms like Spotify, YouTube Music, or SoundCloud to help dancers stay on beat while drilling movement.
+- 3D Skeletal Tracking & Playback – Uses computer vision to capture full-body movement as a 3D skeleton in real time, allowing dancers to view simplified skeletal motion for clearer study, playback, and technique replication.
 
 ## Technical Objective
 
 This app also serves as a portfolio project to showcase my capabilities as an iOS developer. It highlights my ability to:
 
-Design intuitive, user-centric interfaces tailored for niche communities
-Implement real-time audio synchronization using AVFoundation and CoreMedia
-Integrate 3D skeleton tracking with computer vision frameworks such as ARKit
-Build clean, modular, and testable architecture using the MVVM design pattern
-Develop and consume RESTful APIs to support scalable backend integration
-Write unit tests and configure a CI pipeline using GitHub Actions for automated quality checks
-✨ Features
+- Design intuitive, user-centric interfaces tailored for niche communities
+- Implement real-time audio synchronization using AVFoundation and CoreMedia
+- Integrate 3D skeleton tracking with computer vision frameworks such as ARKit
+- Build clean, modular, and testable architecture using the MVVM design pattern
+- Develop and consume RESTful APIs to support scalable backend integration
+- Write unit tests and configure a CI pipeline using GitHub Actions for automated quality checks
 
 ## ✨ Features
 
@@ -36,8 +35,7 @@ Write unit tests and configure a CI pipeline using GitHub Actions for automated 
 | 🎧 **Beat React Mode**           | 🚧 In Progress | Prompts dancers to move only on beat drops to improve timing awareness |
 
 
-
-### Tech Stack
+## Tech Stack
 
 - Language: Swift 
 - UI Framework: SwiftUI
