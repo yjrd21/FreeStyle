@@ -3,7 +3,7 @@
 A Swift-built mobile toolset to help freestyle dancers train smarter, sharper, and more intentionally for dance battles.
 
 ## 📸 Preview (Coming soon)
-Stay tuned! UI previews of the timer screen, beat counter, and pose detection playback will be added soon.
+Stay tuned!
 
 
 ## Non-Technical Objective
@@ -39,13 +39,13 @@ Write unit tests and configure a CI pipeline using GitHub Actions for automated 
 
 ### Tech Stack
 
-Language: Swift 
-UI Framework: SwiftUI
-Architecture: MVVM
-Audio Processing: AVFoundation, CoreMedia
-Pose Tracking: ARKit 
-CI/CD: GitHub Actions 
-Testing: XCTest 
+- Language: Swift 
+- UI Framework: SwiftUI
+- Architecture: MVVM
+- Audio Processing: AVFoundation, CoreMedia
+- Pose Tracking: ARKit 
+- CI/CD: GitHub Actions 
+- Testing: XCTest 
 
 🧑‍🎨 Design Philosophy
 ---  
