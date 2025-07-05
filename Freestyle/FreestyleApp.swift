@@ -1,10 +1,3 @@
-//
-//  FreestyleApp.swift
-//  Freestyle
-//
-//  Created by Daniel  Yuen on 5/7/25.
-//
-
 import SwiftUI
 import SwiftData
 

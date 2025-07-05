@@ -1,10 +1,3 @@
-//
-//  Item.swift
-//  Freestyle
-//
-//  Created by Daniel  Yuen on 5/7/25.
-//
-
 import Foundation
 import SwiftData
 
