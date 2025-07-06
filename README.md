@@ -1,17 +1,31 @@
 # FreeStyleLab
-## An iOS Dance App For Freestylers 
-A Swift-built mobile toolset to help freestyle dancers train smarter, sharper, and more intentionally for dance battles.
+## An iOS Dance App for Freestylers  
+*A Swift-built mobile toolbox designed to help freestyle dancers train smarter, sharper, and with greater intention for dance battles.*
 
-## 📸 Preview (Coming soon)
+This app is built as an evolving platform—a growing toolkit where more features will be added over time to support the diverse needs of freestyle dancers. Currently, three core tools are in development:
+
+---
+
+1. BeatLink:   
+Upload two videos—either of yourself or you and another dancer—dancing to the same track. The app uses machine learning to synchronize the audio and play both videos side by side, allowing you to compare timing, movement, and style with precision.
+
+2. BeatCounter:  
+Let the app handle your counts. Choose from:
+- **Numbers:** `1 N 2 N 3 N 4`
+- **Sound Syllables:** `Boom Tsk Ka`
+- **Metronome:** `beep beep beep`
+  ...across 4, 8, 16, or 32 beats to stay on rhythm while training or choreographing.
+
+3. MotionTracker:   
+Upload a video of your favorite dancer. The app will strip away visual clutter and render their movement as a simplified stickman—helping you break down body mechanics, rhythm, and transitions with clarity.
+
+## Preview (Coming soon)
 Stay tuned!
 
 
 ## Non-Technical Objective
 
-This passion project is a fusion of two things I deeply care about: code and dance. If you browse the App Store for dance-related apps, you’ll find fitness programs, rhythm games like JustDance, or learning platforms like Steezy. But none are designed to serve freestyle dancers — especially those training for cyphers, jams, or battles. This app is built specifically for them. At its core, the app focuses on two main features:
-
-- Beat Counter – Syncs with platforms like Spotify, YouTube Music, or SoundCloud to help dancers stay on beat while drilling movement.
-- 3D Skeletal Tracking & Playback – Uses computer vision to capture full-body movement as a 3D skeleton in real time, allowing dancers to view simplified skeletal motion for clearer study, playback, and technique replication.
+This passion project is a fusion of two things I deeply care about: code and dance. If you browse the App Store for dance-related apps, you’ll find fitness programs, rhythm games like JustDance, or learning platforms like Steezy. But none are designed to serve freestyle dancers — especially those training for cyphers, jams, or battles. This app is built specifically for them. 
 
 ## Technical Objective
 
@@ -24,15 +38,13 @@ This app also serves as a portfolio project to showcase my capabilities as an iO
 - Develop and consume RESTful APIs to support scalable backend integration
 - Write unit tests and configure a CI pipeline using GitHub Actions for automated quality checks
 
-## ✨ Features
+##  Features
 
-| Feature                           | Status         | Description |
-|-----------------------------------|----------------|-------------|
-| 🎶 **Beat Counter**              | 🚧 In Progress        | Syncs with audio from platforms like Spotify or YouTube Music to help dancers stay on beat |
-| 🧍 **3D Skeletal Tracking & Playback** | 🚧 In Progress        | Captures full-body motion using real-time 3D skeleton tracking and plays it back for study and replication |
-| 📹 **Shadow Mode**               | 🚧 In Progress     | Overlay your own recording on top of reference footage for side-by-side technique comparison |
-| 🕑 **Round Timer**                | 🚧 In Progress        | Customizable timers for solo rounds (e.g., 1-min or 3-min drills) |
-| 🎧 **Beat React Mode**           | 🚧 In Progress | Prompts dancers to move only on beat drops to improve timing awareness |
+| Feature                            | Status         | Description |
+|------------------------------------|----------------|-------------|
+| 🎥 **BeatLink**                    | 🚧 In Progress | Upload two videos dancing to the same track. Uses ML to sync the audio and play them side by side—perfect for comparing movement, timing, and style. |
+| 🎶 **BeatCounter**                 | 🚧 In Progress | Helps dancers stay on rhythm by counting beats using Numbers (`1 N 2 N`), Sound Syllables (`Boom Tsk Ka`), or Metronome (`beep beep beep`). Works across 4, 8, 16, or 32 counts. |
+| 🧍 **MotionTracker**              | 🚧 In Progress | Upload a video of a dancer. The app reduces it to a simplified stickman form to help analyze movement mechanics and flow. |
 
 
 ## Tech Stack
