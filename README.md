@@ -38,6 +38,8 @@ This app also serves as a portfolio project to showcase my capabilities as an iO
 - Develop and consume RESTful APIs to support scalable backend integration
 - Write unit tests and configure a CI pipeline using GitHub Actions for automated quality checks
 
+- You can view the Figma design system for this project here:  [Figma Design System](https://www.figma.com/design/OsDy71DVXVdFnk2FU7tHsX/FreeStyleLab?node-id=0-1&t=mHranORv4NeaUr6v-1)
+
 ##  Features
 
 | Feature                            | Status         | Description |
