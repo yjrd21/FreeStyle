@@ -1,6 +1,11 @@
 # FAQ
 
-### Why can’t I play Spotify songs inside this app?
+### Have you explored Spotify, SoundCloud, or YouTube Music integration?
 
-Spotify doesn’t allow other apps to stream or play their music directly. Songs must be played through the official Spotify app, and only if you have a Premium account.
-As such, this app will not display or play songs from your Spotify account. 
+Yes. I’ve explored all three platforms, but each comes with important limitations:
+1. Spotify does not allow third-party apps to stream or play music directly. Playback must occur through the official Spotify app, and only for users with a Premium account. As such, this app does not display or play songs from your Spotify library.
+2. SoundCloud only allows streaming of certain public tracks, and those can usually only be played through a built-in web player. This limits how smoothly the app can control or interact with the audio. 
+3. YouTube Music only allows songs to be played through the official YouTube player, which means the audio can't be directly accessed or used by this app.
+
+
+Because of these restrictions, the app currently supports locally uploaded audio files and video files 
