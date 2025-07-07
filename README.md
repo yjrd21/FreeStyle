@@ -1,4 +1,4 @@
-# FreeStyleLab
+# FreeStyleLab (16 Jul 2025 Release) 
 ## An iOS Dance App for Freestylers  
 *A Swift-built mobile toolbox designed to help freestyle dancers train smarter, sharper, and with greater intention for dance battles.*
 
